@@ -63,6 +63,5 @@ Add https://brunozhon.github.io/news/recipes/how-to-make-a-strawberry-smoothie-w
 
 <!--
 Copy this and paste it in a file in your coumputer called *.md. ".md" stands for markdown. You can also use ".markdown."
-You can click the copy button (the one that looks like a clipboard) to copy this file. It should appear if you click this box.
 -->
 ```
