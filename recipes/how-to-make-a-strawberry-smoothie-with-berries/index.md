@@ -31,7 +31,7 @@ title: How to make a strawberry smoothie with berries
 
 <img src="963B53FE-C122-42D6-AFF4-F8FDD9AC6011.jpeg" width="300">
 
-{% /raw %}
+{% endraw %}
 # Source:
 
 ```markdown
